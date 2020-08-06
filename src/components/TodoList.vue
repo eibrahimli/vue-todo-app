@@ -12,7 +12,6 @@ export default {
 
 <style lang='scss'>
   .todo-input{    
-    
     width: 100%;
     padding: 16px 18px;
     font-size: 18px;
